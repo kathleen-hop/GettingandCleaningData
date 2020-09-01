@@ -1,13 +1,3 @@
----
-#title: "ReadMe"
-#author: "Kathleen"
-#date: "8/31/2020"
-#output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 ## Getting and Cleaning Data Course Project README
 
